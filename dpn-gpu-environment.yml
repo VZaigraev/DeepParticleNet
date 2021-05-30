@@ -10,14 +10,14 @@ dependencies:
 - scipy
 - pillow
 - cython
-- matplotlib=3.0.1
+- matplotlib
 - scikit-image
 - h5py
 - ipython
 - jupyter
 - jupyterlab
 - tensorflow-gpu
-- keras=2.1.3
+- keras
 - imgaug
 - opencv
 - seaborn
