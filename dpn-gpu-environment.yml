@@ -17,7 +17,7 @@ dependencies:
 - jupyter
 - jupyterlab
 - tensorflow-gpu
-- keras=2.0.0
+- keras
 - imgaug
 - opencv
 - seaborn
