@@ -7,7 +7,7 @@ dependencies:
 - pandas
 - numpy
 - dill
-- scipy
+- scipy=1.6.2
 - pillow
 - cython
 - matplotlib
